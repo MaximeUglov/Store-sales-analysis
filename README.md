@@ -11,3 +11,12 @@
 Посмотрим какие категории товаров приносят больше выручки, а значит требуют большего внимания. Выявим какие товары возвращают больше всего, чтобы устранить причины возврата.
 ### Анализ скидок
 Поскольку процент маржи неизвестен, сделаем оценку в диапазоне от 15% до 50%. Посчитаем какие товары выгодно продавались, если даже маржа была бы 15%, а какие - невыгодно, даже при 50%. Таким образом, можно скорректировать скидку. Например, если нужно продать товаров со скидкой в несколько раз больше, чем без скидки, чтобы она окупилась, то, возможно, стоит уменьшить размер скидки. 
+
+### Библиотеки
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/matplotlib-black?style=for-the-badge&logo=matplotlib"/>
+  <img src="https://img.shields.io/badge/seaborn-black?style=for-the-badge&logo=seaborn"/>
+</div>
